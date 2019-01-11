@@ -1,12 +1,16 @@
-# AppNotes
-Aplicacion hibrida con Ionic y angular 7.
-<image src="presentation.jpg" alt="image not avaible">
 
-Para utilizar esta app se debe tener instalado:
+ # AppNotes
+<image src="presentation.jpg" alt="image not avaible">
+  <br>
+<p>
+ 
+Hibryd application Ionic and angular 7.
+Requirements:
 
 Ionic CLI,
 
 Angular CLI
 
-el comando para arrancar el proyecto desde consola: ionic serve -o
+the command in the console to start: ionic serve -o
 
+</p>
