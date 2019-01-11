@@ -4,7 +4,7 @@
   <br>
 <p>
  
-Hybrid application using Ionic and angular 7.
+Hybrid application using Ionic and angular 7. <br>
 Requirements:
 
 Ionic CLI,
