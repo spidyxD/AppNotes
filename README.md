@@ -1,5 +1,6 @@
 # AppNotes
 Aplicacion hibrida con Ionic y angular 7.
+<image src="presentation.jpg" alt="image not avaible">
 
 Para utilizar esta app se debe tener instalado:
 
